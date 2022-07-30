@@ -1,0 +1,4 @@
+name: PixelmonUtil
+main: com.lss233.pixelmon.Main
+version: ${project.version}
+author: Lss233
